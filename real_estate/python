@@ -1,0 +1,14 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 09, 2023 - 17:49:17
+Django version 4.0, using settings 'real_estate.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 09, 2023 - 18:07:08
+Django version 4.0, using settings 'real_estate.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.

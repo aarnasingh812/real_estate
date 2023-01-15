@@ -17,9 +17,10 @@ from django.contrib import admin
 from django.urls import path
 
 
-from listings.views import listing_list, listing_retrieve
+from listings.views import listing_list, listing_retrieve, listing_create
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('list' , listing_list),
-    path('listing/<pk>/', listing_retrieve)
+    path('listing/<pk>/', listing_retrieve),
+    path('add-listing/', listing_create)
 ]
